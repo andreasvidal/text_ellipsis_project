@@ -1,14 +1,6 @@
 # Text ellipsis Project
 
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+This function has to returns the first 10 characters of the text parameter it receives followed by an ellipsis. An ellipsis is the dot character written 3 times: ...
 
 ## Usage
 
@@ -16,7 +8,7 @@ pip install foobar
 import getDescription
 
 # return text.substring(0, 10) + "...";
-foobar.pluralize('word')
+console.log(text)
 
 ```
 
