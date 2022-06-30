@@ -1,0 +1,15 @@
+{
+    "name": "text_ellipsis",
+    "version": "1.0.0",
+    "description": "funcion que permite mostrar sólo 10 caracteres de un input text",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "node",
+      "proyecto"
+    ],
+    "author": "andrea salas",
+    "license": "ISC"
+  }
